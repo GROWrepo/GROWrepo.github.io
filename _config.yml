@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: GROW Developers Blog
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: blcentra@gmail.com
 name: Ben Centra
@@ -193,6 +193,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
+    os_repo: "https://github.com/GROWrepo/GROWrepo.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    os_src: "git@github.com:GROWrepo/GROWrepo.github.io.git"

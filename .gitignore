@@ -9,7 +9,3 @@ _site
 # Bundler
 .bundle/
 vendor/
-
-#gemfile
-Gemfile
-*.lock
